@@ -1,7 +1,7 @@
 {
   "name": "luhn-check",
-  "version": "0.0.1",
-  "description": "Client-side validation for credit cards using the Luhn algorithm",
+  "version": "0.0.2",
+  "description": "validation for credit cards using the Luhn algorithm",
   "main": "index.js",
   "scripts": {
     "test": "node test/index.js"
@@ -19,6 +19,7 @@
     "input",
     "form"
   ],
+  "repository": "https://github.com/meandavejustice/luhn-check",
   "author": "meandave",
   "license": "MIT",
   "dependencies": {},
