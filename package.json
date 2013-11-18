@@ -1,0 +1,29 @@
+{
+  "name": "luhn-check",
+  "version": "0.0.1",
+  "description": "Client-side validation for credit cards using the Luhn algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "luhn",
+    "credit",
+    "card",
+    "validation",
+    "input",
+    "browserify",
+    "client",
+    "client-side",
+    "browser",
+    "input",
+    "form"
+  ],
+  "author": "meandave",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.1.0",
+    "creditcard-generator": "0.0.7"
+  }
+}
