@@ -1,6 +1,6 @@
 ## Luhn-Check
 
-a Tiny Credit Card Validation modules.
+a Tiny Credit Card Validation module.
 
 * perfect for the browser
 * perfect for the server
