@@ -1,6 +1,6 @@
 {
   "name": "luhn-check",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "validation for credit cards using the Luhn algorithm",
   "main": "index.js",
   "scripts": {
